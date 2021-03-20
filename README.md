@@ -1,6 +1,5 @@
 # GIT_project
-details
-veganti naga satish
-it
-y19it121
-satishchowdaryveganti2002@gmail.com
+* item 1
+* item 2
+ * item 2a
+ * item 2b
